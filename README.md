@@ -3,4 +3,4 @@ The project focus is on creating a visualization using R of past 30 days earthqu
 
 To complete this, data was collected from https://earthquake.usgs.gov/data/, from JSON files which keeps on modifying data after every 15 minutes.
 
-The maps show the locations nearest to the epicenters and the number of earthquakes of magnitude >4.5 in past 30 days.
+The maps in the HTML show the locations nearest to the epicenters and the number of earthquakes of magnitude >4.5 in past 30 days.
